@@ -1,6 +1,6 @@
-# Linguagem-C
-Alguns exercícios em base da linguagem C
-soma entre dois números
+# Soma entre dois números em C
+
+
 #include <stdio.h>
 
 int main(void)
